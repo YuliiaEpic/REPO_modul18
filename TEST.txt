@@ -9,3 +9,8 @@ steps to reproduse:
  3.
 
 test case2
+test case title: authorization
+Preconditions:
+ 1. open https://rozetka.com.ua/ua/
+steps to reproduse:
+ 1.
