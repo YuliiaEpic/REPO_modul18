@@ -13,4 +13,5 @@ test case title: authorization
 Preconditions:
  1. open https://rozetka.com.ua/ua/
 steps to reproduse:
- 1.
+ 1. enter email asdk@gmail.com 
+ 2. enter password yrbbv165# 
