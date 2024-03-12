@@ -1,1 +1,11 @@
 test case1
+test case title: registration
+Preconditions:
+ 1. open https://rozetka.com.ua/ua/
+
+steps to reproduse:
+ 1. click profile icon in the header
+ 2. click button "Зареєструватися"
+ 3.
+
+test case2
